@@ -3,7 +3,7 @@
 # range(starting.ending,step) - ex. 1,10,2
 
 
-Range = range(10)
+Range = range(0,10,3)
 list1 = list(Range)
 print (list1)
 
